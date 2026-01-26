@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Matheus Henrique!
 
-🎯 **Programador Full Stack** com foco em desenvolvimento **Back-End em Python**. Tenho experiência prática com suporte técnico, criação de sites, rotinas administrativas e automações úteis para o dia a dia.
+🎯 **Programador Back-end** com foco em desenvolvimento **Back-End em Python**. Tenho experiência prática com suporte técnico, criação de sites, rotinas administrativas e automações úteis para o dia a dia.
 
-Atualmente atuo como **Assistente Administrativo na Castillero Diversões**, onde aplico tecnologia para otimizar tarefas como controle de estoque, emissão de NF-e e criação de checklists inteligentes.
+Atualmente estou procurando vagas na área de tecnologia!
 
 ---
 
@@ -40,9 +40,9 @@ _Fundação Instituto Tecnológico de Osasco (2022 - 2024)_
 ---
 
 ## 🧠 Experiências recentes
-- 💼 **Castillero Diversões** – Assistente Administrativo  
+- 💼 **GWA Distribuidora** – Auxiliar de Marketplace  
 - 🧑‍💻 **Mike School** – Estagiário de TI e Freelancer (criação de conteúdos, suporte técnico, site)  
-- 🏢 **Transppass** – Jovem Aprendiz (suporte e segurança do trabalho)
+- 🏢 **Transppass** – Jovem Aprendiz (segurança do trabalho)
 
 ---
 
