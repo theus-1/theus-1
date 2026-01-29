@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Matheus Henrique!
 
-🎯 **Programador Back-end** com foco em desenvolvimento **Back-End em Python**. Tenho experiência prática com suporte técnico, criação de sites, rotinas administrativas e automações úteis para o dia a dia.
+🎯 **Programador Back-end** com foco em desenvolvimento **Back-End em Java**. Tenho experiência prática com suporte técnico, criação de sites, rotinas administrativas e automações úteis para o dia a dia.
 
 Atualmente estou procurando vagas na área de tecnologia!
 
@@ -20,12 +20,16 @@ Atualmente estou procurando vagas na área de tecnologia!
 **Técnico em Informática para Internet**  
 _Fundação Instituto Tecnológico de Osasco (2022 - 2024)_
 
+**Bacharelado em Ciência da Computação**
+_Universidade São Judas Tadeu (2026-2030)_
+
 ---
 
 ## 🔧 Tecnologias e Ferramentas
 - Python (Back-End)
 - HTML & CSS (Front-End)
 - Git & GitHub
+- Java (Back-End)
 - Pacote Office (Word, Excel, PowerPoint)
 - Manutenção e montagem de computadores
 - Emissão de NF-e e relatórios administrativos
