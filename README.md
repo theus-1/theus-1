@@ -20,8 +20,8 @@ Atualmente estou procurando vagas na área de tecnologia!
 **Técnico em Informática para Internet**  
 _Fundação Instituto Tecnológico de Osasco (2022 - 2024)_
 
-**Bacharelado em Ciência da Computação**
-_Universidade São Judas Tadeu (2026-2030)_
+**Bacharelado em Ciência da Computação**  
+_Universidade São Judas Tadeu (2026 - 2030)_
 
 ---
 
