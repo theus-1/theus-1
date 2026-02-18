@@ -51,8 +51,7 @@ _Universidade São Judas Tadeu (2026 - 2030)_
 ---
 
 ## 📫 Como me encontrar
-- Email: [matheus.cemino2013@gmail.com](mailto:matheus.cemino2013@gmail.com)  
-- WhatsApp: (11) 98789-1091  
+- Email: [matheus.cemino2013@gmail.com](mailto:matheus.cemino2013@gmail.com)   
 - Localização: Osasco/SP
 
 ---
