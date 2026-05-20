@@ -1,62 +1,82 @@
-# 👋 Olá, eu sou o Matheus Henrique!
+# 👋 Olá, eu sou Matheus Henrique
 
-🎯 **Programador Back-end** com foco em desenvolvimento **Back-End em Java**. Tenho experiência prática com suporte técnico, criação de sites, rotinas administrativas e automações úteis para o dia a dia.
+💻 Desenvolvedor com foco em **Back-End Java** e automação de processos, apaixonado por tecnologia, resolução de problemas e criação de ferramentas úteis para otimizar rotinas e sistemas.
 
-Atualmente estou procurando vagas na área de tecnologia!
+Atualmente atuo como **Jovem Aprendiz em Internal Systems (DevTools)** no **Mercado Livre**, contribuindo com soluções internas, suporte a ferramentas corporativas e melhoria de processos tecnológicos.
 
 ---
 
-## 💡 Sobre mim
+## 🚀 Sobre mim
 
-- 💻 Apaixonado por resolver problemas com código
-- 📚 Sempre aprendendo algo novo e aplicando em projetos reais
-- 🔧 Experiência com HTML, CSS, Python, automações administrativas e suporte N1
-- 🧰 Familiaridade com Office, planilhas, relatórios, estoque e muito mais
-- 🌍 Baseado em Osasco/SP
+- ☕ Focado em desenvolvimento **Back-End com Java e Python**
+- 🔧 Interesse em automações, ferramentas internas e otimização de processos
+- 🖥️ Experiência com suporte técnico, infraestrutura e troubleshooting
+- 📊 Familiaridade com rotinas administrativas, relatórios, planilhas e análise operacional
+- 📚 Sempre aprendendo novas tecnologias e aplicando em projetos práticos
 
 ---
 
 ## 🎓 Formação
-**Técnico em Informática para Internet**  
-_Fundação Instituto Tecnológico de Osasco (2022 - 2024)_
 
 **Bacharelado em Ciência da Computação**  
-_Universidade São Judas Tadeu (2026 - 2030)_
+*Universidade São Judas Tadeu* (2026 - 2030)
+
+**Técnico em Informática para Internet**  
+*Fundação Instituto Tecnológico de Osasco* (2022 - 2024)
 
 ---
 
-## 🔧 Tecnologias e Ferramentas
-- Python (Back-End)
-- HTML & CSS (Front-End)
-- Git & GitHub
-- Java (Back-End)
-- Pacote Office (Word, Excel, PowerPoint)
-- Manutenção e montagem de computadores
-- Emissão de NF-e e relatórios administrativos
+## 💼 Experiência
+
+### 🟨 Mercado Livre — Jovem Aprendiz | Internal Systems (DevTools)
+- Suporte e auxílio em ferramentas e sistemas internos
+- Apoio em automações e melhorias de processos
+- Atuação próxima a times de tecnologia e operações internas
+
+### 💼 GWA Distribuidora — Auxiliar de Marketplace
+- Gestão operacional de produtos e marketplaces
+- Rotinas administrativas e acompanhamento de indicadores
+
+### 🧑‍💻 Mike School — Estagiário de TI / Freelancer
+- Desenvolvimento e manutenção de sites
+- Suporte técnico e criação de conteúdos digitais
+
+### 🏢 Transppass — Jovem Aprendiz
+- Apoio em rotinas administrativas e segurança do trabalho
 
 ---
 
-## 📚 Cursos em destaque
-- [Alura] JavaScript e HTML: lógica com desenhos, animações e jogo (2022)  
-- [Alura] Unity: criação de jogo de zumbis para Web (2022)  
-- [Alura] JavaScript: tipos, variáveis e funções (2022)  
+## 🛠️ Tecnologias e Ferramentas
+
+**Back-End:**  
+Java • Python
+
+**Front-End:**  
+HTML • CSS • JavaScript
+
+**Ferramentas:**  
+Git • GitHub • Excel • Word • PowerPoint
+
+**Outros:**  
+Montagem e manutenção de computadores • Relatórios administrativos • NF-e
 
 ---
 
-## 🧠 Experiências recentes
-- 💼 **GWA Distribuidora** – Auxiliar de Marketplace  
-- 🧑‍💻 **Mike School** – Estagiário de TI e Freelancer (criação de conteúdos, suporte técnico, site)  
-- 🏢 **Transppass** – Jovem Aprendiz (segurança do trabalho)
+## 📚 Cursos
+
+- Alura — JavaScript e HTML: lógica, animações e jogos
+- Alura — Unity: desenvolvimento de jogo web
+- Alura — JavaScript: tipos, variáveis e funções
 
 ---
 
-## 📫 Como me encontrar
-- Email: [matheus.cemino2013@gmail.com](mailto:matheus.cemino2013@gmail.com)   
-- Localização: Osasco/SP
+## 📫 Contato
+
+📧 **Email:** matheus.cemino2013@gmail.com  
+📍 **Localização:** Osasco/SP, Brasil
 
 ---
 
-🚀 Explore meus repositórios e projetos aqui no GitHub — muitos deles voltados a automações, sites e ferramentas úteis que desenvolvi ou colaborei.  
-Estou sempre disponível para aprender, colaborar e crescer profissionalmente.
+🚀 Sempre buscando evoluir como desenvolvedor, aprender novas tecnologias e construir soluções que gerem impacto real.
 
 ![Pac-Man devour contributions](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
