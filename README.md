@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Matheus Henrique
 
-💻 Desenvolvedor com foco em **Back-End Java** e automação de processos, apaixonado por tecnologia, resolução de problemas e criação de ferramentas úteis para otimizar rotinas e sistemas.
+💻 Desenvolvedor com foco em **Back-End Python** e automação de processos, apaixonado por tecnologia, resolução de problemas e criação de ferramentas úteis para otimizar rotinas e sistemas.
 
 Atualmente atuo como **Jovem Aprendiz em Internal Systems (DevTools)** no **Mercado Livre**, contribuindo com soluções internas, suporte a ferramentas corporativas e melhoria de processos tecnológicos.
 
