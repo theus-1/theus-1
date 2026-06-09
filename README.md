@@ -4,11 +4,6 @@
 
 Atualmente atuo como **Jovem Aprendiz em Internal Systems (DevTools)** no **Mercado Livre**, contribuindo com soluções internas, suporte a ferramentas corporativas e melhoria de processos tecnológicos.
 
-<div align="center">
-  <img src="assest/shiny-gengar-ig.gif" width="100">
-</div>
-
-
 ---
 
 ## 🚀 Sobre mim
