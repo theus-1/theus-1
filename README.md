@@ -8,7 +8,7 @@ Atualmente atuo como **Jovem Aprendiz em Internal Systems (DevTools)** no **Merc
 
 ## 🚀 Sobre mim
 
-- ☕ Focado em desenvolvimento **Back-End com Java e Python**
+- ☕ Focado em desenvolvimento **Back-End com Python**
 - 🔧 Interesse em automações, ferramentas internas e otimização de processos
 - 🖥️ Experiência com suporte técnico, infraestrutura e troubleshooting
 - 📊 Familiaridade com rotinas administrativas, relatórios, planilhas e análise operacional
